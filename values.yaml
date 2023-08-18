@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: debajyotim/sampleap
+  repository: debajyotim/sampleapp
   tag: "latest"
   pullPolicy: Always
 
